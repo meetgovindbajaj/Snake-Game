@@ -27,7 +27,7 @@ Language Used : Java (Project is build on Java Swing Library)
 
 ### How to run?
 
-- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/Snake-Game/blob/main/setup.exe) and run the setup file.
+- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/Snake-Game/releases/download/1.0.0/snake-game-setup.exe) and run the setup file.
 
 ### Some Screenshots of the game
 
